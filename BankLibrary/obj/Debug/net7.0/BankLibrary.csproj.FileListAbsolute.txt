@@ -1,0 +1,12 @@
+D:\ClassLibraryProjects\BankLibrary\bin\Debug\net7.0\BankLibrary.deps.json
+D:\ClassLibraryProjects\BankLibrary\bin\Debug\net7.0\BankLibrary.dll
+D:\ClassLibraryProjects\BankLibrary\bin\Debug\net7.0\BankLibrary.pdb
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.csproj.AssemblyReference.cache
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.AssemblyInfoInputs.cache
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.AssemblyInfo.cs
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.csproj.CoreCompileInputs.cache
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.dll
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\refint\BankLibrary.dll
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\BankLibrary.pdb
+D:\ClassLibraryProjects\BankLibrary\obj\Debug\net7.0\ref\BankLibrary.dll
